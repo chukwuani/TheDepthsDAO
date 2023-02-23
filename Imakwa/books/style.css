@@ -10,12 +10,12 @@
     transition: all .3s cubic-bezier(.7, 0, .3, 1);
     margin-top: 30px;
     cursor: pointer;
+    box-shadow: 0px 10px 0px 0px #000;
 }
 
-.books-container:hover{
-    box-shadow: 0px 10px 0px 0px #000;
+/* .books-container:hover{
     translate: 0 -20px;
-}
+} */
 
 
 .main-section{
