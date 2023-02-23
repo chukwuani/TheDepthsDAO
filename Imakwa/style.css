@@ -107,7 +107,7 @@ header{
 .hero-sub-text{
     font-family: 'DM Sans', sans-serif;
     font-size: 1rem;
-    line-height: 30px;
+    line-height: 35px;
     color: rgba(0, 0, 0, 0.7);
 }
 
@@ -159,7 +159,7 @@ ion-icon {
       }
 
       .link-item{
-        font-size: .9rem;
+        font-size: .89rem;
       }
     
       .open{
@@ -213,11 +213,12 @@ ion-icon {
     }
 
     .hero-title{
-        font-size: 50px;
+        font-size: 30px;
     }
 
     .hero-sub-text{
-        font-size: .9rem;
+        font-size: .89rem;
         padding: 0 10px 0 10px;
+        line-height: 30px;
     }
 }
